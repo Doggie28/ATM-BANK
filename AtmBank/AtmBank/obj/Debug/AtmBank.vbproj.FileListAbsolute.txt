@@ -1,0 +1,15 @@
+\\stg-highschool.sosd.7oaks.org\users\juliet.garcia\visual studio 2012\Projects\AtmBank\AtmBank\bin\Debug\AtmBank.exe.config
+\\Stg-Highschool.sosd.7oaks.org\Users\JULIET.GARCIA\Visual Studio 2012\Projects\AtmBank\AtmBank\bin\Debug\AtmBank.exe
+\\Stg-Highschool.sosd.7oaks.org\Users\JULIET.GARCIA\Visual Studio 2012\Projects\AtmBank\AtmBank\bin\Debug\AtmBank.pdb
+\\Stg-Highschool.sosd.7oaks.org\Users\JULIET.GARCIA\Visual Studio 2012\Projects\AtmBank\AtmBank\bin\Debug\AtmBank.xml
+\\Stg-Highschool.sosd.7oaks.org\Users\JULIET.GARCIA\Visual Studio 2012\Projects\AtmBank\AtmBank\obj\Debug\AtmBank.Form1.resources
+\\Stg-Highschool.sosd.7oaks.org\Users\JULIET.GARCIA\Visual Studio 2012\Projects\AtmBank\AtmBank\obj\Debug\AtmBank.Resources.resources
+\\Stg-Highschool.sosd.7oaks.org\Users\JULIET.GARCIA\Visual Studio 2012\Projects\AtmBank\AtmBank\obj\Debug\AtmBank.vbproj.GenerateResource.Cache
+\\Stg-Highschool.sosd.7oaks.org\Users\JULIET.GARCIA\Visual Studio 2012\Projects\AtmBank\AtmBank\obj\Debug\AtmBank.exe
+\\Stg-Highschool.sosd.7oaks.org\Users\JULIET.GARCIA\Visual Studio 2012\Projects\AtmBank\AtmBank\obj\Debug\AtmBank.xml
+\\Stg-Highschool.sosd.7oaks.org\Users\JULIET.GARCIA\Visual Studio 2012\Projects\AtmBank\AtmBank\obj\Debug\AtmBank.pdb
+\\Stg-Highschool.sosd.7oaks.org\Users\JULIET.GARCIA\Visual Studio 2012\Projects\AtmBank\AtmBank\obj\Debug\AtmBank.Form2.resources
+Z:\Visual Studio 2012\Projects\AtmBank\AtmBank\bin\Debug\AtmBank.exe.config
+Z:\Visual Studio 2012\Projects\AtmBank\AtmBank\obj\Debug\AtmBank.exe
+Z:\Visual Studio 2012\Projects\AtmBank\AtmBank\obj\Debug\AtmBank.xml
+Z:\Visual Studio 2012\Projects\AtmBank\AtmBank\obj\Debug\AtmBank.pdb
