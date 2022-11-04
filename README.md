@@ -1,2 +1,2 @@
 # ATM-BANK
-AHHHHH BANK OF BLEH
+An ATM Bank using Visual Basic
